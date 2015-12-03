@@ -1,5 +1,7 @@
 ## Open Classrooms - Rails : Activité - Partie 2
 
+https://openclassrooms.com/courses/initiez-vous-a-ruby-on-rails
+
 Mission : réaliser une nouvelle application Rails, qui devra comporter les éléments suivants :
 
 
