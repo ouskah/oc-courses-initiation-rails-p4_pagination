@@ -1,5 +1,8 @@
 <h1>Bienvenue sur mon blog</h1>
+
+<%= paginate @articles%>
 <% @articles.each do |article| %>
   <p><a href="/articles/<%= article.id %>"><%= article.title %></a></p>
 <% end %>
 
+    
